@@ -1,0 +1,26 @@
+html=code for entire page
+*must contain*
+<!DOCTYPE html>
+<html>
+<head>
+<title> name of document </title>
+</head>
+<body>
+this is all the information you want on the page
+</body>
+</html>
+
+CSS: code goes between body open and close code with <style>
+<head>
+
+<style>
+body {
+    css code;
+    }
+  </style>
+  
+  java: code goes between <head> open and close with <script="" src="name.js">
+  
+  <head>
+    <script type="text/JavaScript"src="filename.js"> </script>
+    </head>
